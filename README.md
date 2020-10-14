@@ -8,7 +8,7 @@ Yes there are free digitized versions. Nice high-red scans. Pretty maps.
 
 There is a complete, academically respected edition of the Geography in German.
 
-There is an incomplete, academically respected edition of the Geography in English.
+There is an academically respected edition of the Geography in English, but it does not contain complete location data tables.
 
 **Scandal #1: A complete, academically respected edition of the Geography in English does not exist.**
 
