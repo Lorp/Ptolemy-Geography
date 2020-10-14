@@ -6,9 +6,9 @@ For a work of such importance to the history of civilization, you’d be right t
 
 Yes there are free digitized versions. Nice high-red scans. Pretty maps.
 
-There is a complete, academically respected edition of the Geography in German.
+There is a complete, academically respected edition of the [Geography in German](https://www.amazon.co.uk/Klaudios-Ptolemaios-Handbuch-Geographie-Einleitung/dp/3796521487).
 
-There is an academically respected edition of the Geography in English, but it does not contain complete location data tables.
+There is an academically respected edition of the [Geography in English](https://www.amazon.co.uk/Ptolemys-Geography-Annotated-Translation-Theoretical/dp/0691010420/), but it does not contain complete location data tables.
 
 **Scandal #1: A complete, academically respected edition of the Geography in English does not exist.**
 
