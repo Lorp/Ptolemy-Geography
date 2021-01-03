@@ -22,3 +22,6 @@ It seems to me that that all important editions of the Geography, treated as a d
 
 This repo aims to encourage others study the _Geography_ by publishing databases from various editions of the _Geography_. We will start with the 1540 edition published by Henry Petri in Basel and with maps by Sebastian Münster.
 
+## Background
+
+I presented [*Claudius Ptolemy and the first geospatial database*](https://www.youtube.com/watch?v=cxHR4gSOimk) (25 mins) for Geomob London in October 2020, introducing Ptolemy’s Geography and concluding with the need for an openly licenesed database. That was followed with an interview on the [Geomob podcast](https://thegeomob.com/podcast/episode-48).
